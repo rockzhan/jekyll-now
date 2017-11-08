@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Machine Learning is fun, life is intresting !
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Developing AI related APP now.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[rock8zhan@gmail.com](mailto:rock8zhan@gmail.com)
